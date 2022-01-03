@@ -1,0 +1,4 @@
+- 👋 Hi, I'm @ Sem4eZ
+- 👀 I'm interested in frontend development(JS, HTML, CSS)
+- 🌱 I am currently studying at the university
+- 📫 How to get to me: sem4ezz@gmail.com
